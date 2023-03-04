@@ -5,3 +5,9 @@
 🌱 Estou cursando/estudando Big data para negócios
 
 😄 Pronouns: Ele/Dele
+
+<div>
+  <a href="https://github.com/Celovieirsilvs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Celovieirsilvs&show_icons=true&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celovieirsilvs">
+</div>
