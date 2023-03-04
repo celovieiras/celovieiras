@@ -23,10 +23,9 @@
 ##
   
 <div>
-  <a href="https://www.twitch.tv/celovieirs" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/celo-vieira/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://wa.me/5511959058079?text=Contato+pessoal%2Fprofissional+de+Marcelo+Vieira+da+Silva" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://t.me/Celovieirs" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-"></a>
+  <a href="https://www.linkedin.com/in/celo-vieira/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.twitch.tv/celovieirs"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="https://wa.me/5511959058079?text=Contato+pessoal%2Fprofissional+de+Marcelo+Vieira+da+Silva"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://t.me/Celovieirs"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
   
