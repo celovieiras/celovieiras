@@ -28,5 +28,5 @@
   <a href="https://wa.me/5511959058079?text=Contato+pessoal%2Fprofissional+de+Marcelo+Vieira+da+Silva" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://t.me/Celovieirs" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 "></a>
-  </div>
+</div>
   
