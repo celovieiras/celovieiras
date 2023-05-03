@@ -12,6 +12,7 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celovieirsilvs&theme=dark&repo=convoychat&layout=compact">
 </div>
 
+  
 ## Tecnologias utilizadas ou estudadas:
 <div style="display: inline_block">
   <img align="" alt="Python" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
