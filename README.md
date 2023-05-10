@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/celovieiras">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=celovieiras&show_icons=true&theme=dark&repo=github-readme-stats&icount_private=true">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celovieiras&theme=dark&repo=convoychat&layout=compact">
+  <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=celovieiras&show_icons=true&theme=dark&repo=github-readme-stats&icount_private=true">
+  <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=celovieiras&theme=dark&repo=convoychat&layout=compact">
 </div>
 
   
